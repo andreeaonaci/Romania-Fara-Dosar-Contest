@@ -1,0 +1,1 @@
+This project was presented in the Romania Fara Dosar contest. It was realized in a team, with another colleague and with a communication team which was responsable with advertising this Whatsapp Chatbot.
